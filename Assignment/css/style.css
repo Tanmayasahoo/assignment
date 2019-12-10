@@ -1,0 +1,66 @@
+#container {
+    background: lightblue;
+    width: 35%;
+    margin-left: 2%;
+    float: left;
+}
+
+.countryquestion {
+    font-size: 25px;
+}
+
+.checkresult {
+    cursor: pointer;
+    background: lightblue;
+    border-radius: 5px;
+    width: 100px;
+    margin-left: 35%;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-top: 43px;
+    margin-bottom: 30px;
+}
+
+input[type=radio] {
+    margin: 9px;
+    cursor: pointer;
+}
+
+label {
+    cursor: pointer;
+}
+
+p {
+    margin: 5px 17px 4px 55px;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+#output {
+    width: 60%;
+    background: #d7f2f8;
+    display: none;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+    padding: 18px;
+    color: rebeccapurple;
+}
+
+h3 {
+    margin-left: 28px;
+    color: red;
+}
+
+h4 {
+    margin-left: 28px;
+    color: grey;
+}
+
+h5 {
+    font-size: 17px;
+    margin-left: 34px;
+    color: green;
+}

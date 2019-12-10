@@ -1,0 +1,60 @@
+{
+    "global": {
+        "head": {
+            "title": "Multiple Choices"
+        },
+        "questions": [{
+                "ques": "What is the color Sky?",
+                "options": [{
+                        "text": "blue"
+                    },
+                    {
+                        "text": "red"
+                    },
+                    {
+                        "text": "yellow"
+                    },
+                    {
+                        "text": "green"
+                    }
+                ],
+                "correctAnswer": "0"
+            },
+            {
+                "ques": "what is the currency of india?",
+                "options": [{
+                        "text": "Euro"
+                    },
+                    {
+                        "text": "Rupee"
+                    },
+                    {
+                        "text": "dollar"
+                    }
+                ],
+                "correctAnswer": "1"
+            },
+            {
+                "ques": "what is your name?",
+                "options": [{
+                        "text": "table"
+                    },
+                    {
+                        "text": "sahoo"
+                    },
+                    {
+                        "text": "computer"
+                    },
+                    {
+                        "text": "tanu"
+                    }
+                ],
+                "correctAnswer": "3"
+            }
+
+        ],
+        "button": {
+            "answer": "submit"
+        }
+    }
+}
